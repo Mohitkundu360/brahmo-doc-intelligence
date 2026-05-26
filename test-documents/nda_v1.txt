@@ -1,0 +1,56 @@
+NON-DISCLOSURE AGREEMENT
+Version 1.0 — Effective Date: 1 January 2026
+
+This Non-Disclosure Agreement ("Agreement") is entered into between Alpha Corp Pvt. Ltd. ("Disclosing Party") and Beta Solutions Ltd. ("Receiving Party").
+
+1. DEFINITIONS
+"Confidential Information" means any non-public information disclosed by the Disclosing Party to the Receiving Party, including but not limited to business plans, technical data, trade secrets, research, product plans, customer lists, and financial information.
+"Permitted Purpose" means the evaluation of a potential business partnership between the parties.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+The Receiving Party shall: (a) hold the Confidential Information in strict confidence; (b) not disclose the Confidential Information to any third party without prior written consent of the Disclosing Party; (c) use the Confidential Information solely for the Permitted Purpose; (d) apply the same standard of care to protecting the Confidential Information as it applies to its own confidential information, but in no event less than reasonable care.
+
+3. EXCEPTIONS
+The obligations in Clause 2 shall not apply to information that: (a) is or becomes publicly known through no breach by the Receiving Party; (b) is received from a third party without restriction; (c) is independently developed by the Receiving Party without reference to the Confidential Information; (d) is required to be disclosed by applicable law or court order.
+
+4. INTELLECTUAL PROPERTY
+All intellectual property rights in any work product created or developed by the Receiving Party in connection with the Permitted Purpose shall vest exclusively in the Disclosing Party. The Receiving Party assigns all such rights to the Disclosing Party upon creation.
+
+5. LIABILITY
+5.1 General Liability
+Each party shall be liable to the other for any direct losses arising from breach of this Agreement.
+
+5.2 Limitation of Liability
+Neither party shall have any limitation on its liability for breach of the confidentiality obligations under this Agreement. Unlimited liability shall apply for any breach of this Agreement by either party.
+
+6. INDEMNIFICATION
+The Receiving Party shall indemnify, defend, and hold harmless the Disclosing Party from and against any claims, liabilities, costs, and expenses arising from the Receiving Party's breach of this Agreement.
+
+7. INTELLECTUAL PROPERTY OWNERSHIP
+All ideas, inventions, know-how and improvements created during the term of this Agreement shall belong exclusively to the Disclosing Party. The Receiving Party hereby assigns all intellectual property rights to the Disclosing Party, including all pre-existing tools, frameworks and methodologies used.
+
+8. TERM
+This Agreement shall remain in force for a period of 3 years from the Effective Date.
+
+9. RETURN OF INFORMATION
+Upon termination of this Agreement or upon request of the Disclosing Party, the Receiving Party shall promptly return all materials containing Confidential Information.
+
+10. CONFIDENTIALITY OF AGREEMENT
+The existence and terms of this Agreement shall themselves be treated as Confidential Information.
+
+11. GENERAL PROVISIONS
+This Agreement is governed by the laws of India. The parties agree to attempt to resolve any disputes through good-faith negotiation before resorting to formal proceedings.
+
+12. GOVERNING LAW AND DISPUTE RESOLUTION
+Any dispute arising out of or in connection with this Agreement shall be finally settled by arbitration under the rules of the Singapore International Arbitration Centre (SIAC). The seat of arbitration shall be Singapore. The arbitration shall be conducted in English. The arbitral award shall be final and binding.
+
+13. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties with respect to its subject matter and supersedes all prior agreements and understandings.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+Alpha Corp Pvt. Ltd.                    Beta Solutions Ltd.
+By: ___________________________          By: ___________________________
+Name:                                    Name:
+Title:                                   Title:
+Date:                                    Date:
