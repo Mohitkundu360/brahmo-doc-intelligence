@@ -16,7 +16,7 @@ Legal contract comparison and risk scoring system. Upload two contract versions 
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/Mohitkundu360/brahmo-doc-intelligence.git
 cd brahmo-doc-intelligence
 npm install
 ```
