@@ -42,7 +42,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 LLM_API_KEY=your-key   # OpenRouter key (routes to Gemini and OpenAI models)
 ```
 
-Free API options: [console.anthropic.com](https://console.anthropic.com) | [platform.openai.com](https://platform.openai.com)
+API key: [openrouter.ai](https://openrouter.ai)
 
 ### 4. Run
 
