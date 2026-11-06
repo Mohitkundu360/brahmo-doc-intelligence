@@ -39,7 +39,7 @@ cp .env.local.example .env.local
 ```
 NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
-LLM_API_KEY=your-key   # Gemini or OpenAI-compatible key
+LLM_API_KEY=your-key   # OpenRouter key (routes to Gemini and OpenAI models)
 ```
 
 Free API options: [console.anthropic.com](https://console.anthropic.com) | [platform.openai.com](https://platform.openai.com)
@@ -83,6 +83,6 @@ See `docs/architecture.md` for detailed explanation of:
 
 - Next.js 14 + TypeScript + Tailwind CSS
 - Supabase (PostgreSQL)
-- LLM risk scoring (Gemini or OpenAI-compatible models)
+- LLM risk scoring through OpenRouter (Gemini and GPT-4o-mini models)
 - mammoth (DOCX extraction) + pdf-parse (PDF extraction)
 - diff (word-level diffs)
